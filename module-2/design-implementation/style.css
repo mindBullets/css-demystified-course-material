@@ -1,0 +1,18 @@
+:root {
+  --white: #fff;
+  --beige-100: #f9ead1;
+  --beige-200: #ebd9bb;
+
+  --brown-400: #9c5423;
+  --brown-900: #513827;
+
+  --green-500: #145e3a;
+
+  --yellow-500: #eca42d;
+
+  --red-400: #f2604d;
+  --red-500: #c74433;
+}
+
+/* font-family: "Open Sans", sans-serif;
+   font-family: Grandstander, cursive; */
