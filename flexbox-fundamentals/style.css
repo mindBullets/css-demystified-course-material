@@ -1,5 +1,6 @@
 .flex-container {
-  
+    display: flex;
+    gap: 1rem;
 }
 
 .flex-item {
@@ -7,4 +8,6 @@
   /* for visualization */
   border: 2px solid;
   padding: 10px;
+
+  flex: 1;
 }
